@@ -1,6 +1,6 @@
-﻿using System;
+﻿using ExCSS;
 
-namespace ExCSS
+namespace CssParser.Model.Values
 {
     public class InheritTerm : Term
     {

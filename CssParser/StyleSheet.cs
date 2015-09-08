@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using ExCSS.Model.Extensions;
+using CssParser;
+using CssParser.Model.Extensions;
 
 // ReSharper disable once CheckNamespace
 namespace ExCSS

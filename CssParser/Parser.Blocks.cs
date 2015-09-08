@@ -1,10 +1,12 @@
 ﻿using System;
 using System.Linq;
 using System.Text;
-using ExCSS.Model;
-using ExCSS.Model.TextBlocks;
+using CssParser.Model;
+using CssParser.Model.TextBlocks;
+using CssParser.Model.Values;
+using ExCSS;
 
-namespace ExCSS
+namespace CssParser
 {
     public partial class Parser
     {

@@ -1,5 +1,5 @@
 ﻿
-namespace ExCSS.Model.TextBlocks
+namespace CssParser.Model.TextBlocks
 {
     internal abstract class CharacterBlock : Block
     {

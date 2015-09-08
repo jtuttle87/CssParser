@@ -1,4 +1,4 @@
-﻿namespace ExCSS.Model
+﻿namespace CssParser.Model
 {
     internal static class Specification
     {

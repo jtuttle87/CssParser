@@ -1,4 +1,5 @@
-﻿using ExCSS.Model.Extensions;
+﻿using CssParser.Model.Extensions;
+
 // ReSharper disable once CheckNamespace
 
 

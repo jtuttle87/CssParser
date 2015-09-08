@@ -1,4 +1,4 @@
-﻿namespace ExCSS
+﻿namespace CssParser
 {
     public interface IToString
     {

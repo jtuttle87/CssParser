@@ -1,6 +1,6 @@
-﻿using System;
-using ExCSS.Model;
-using ExCSS.Model.Extensions;
+﻿using CssParser;
+using CssParser.Model;
+using CssParser.Model.Extensions;
 
 // ReSharper disable once CheckNamespace
 namespace ExCSS

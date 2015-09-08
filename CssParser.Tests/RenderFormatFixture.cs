@@ -1,5 +1,4 @@
 ﻿using CssParser.Tests.Properties;
-using ExCSS;
 using NUnit.Framework;
 
 namespace CssParser.Tests

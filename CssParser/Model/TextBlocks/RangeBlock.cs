@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
+using ExCSS;
 
-namespace ExCSS.Model.TextBlocks
+namespace CssParser.Model.TextBlocks
 {
     internal class RangeBlock : Block
     {

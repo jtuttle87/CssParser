@@ -1,5 +1,8 @@
 ﻿
 // ReSharper disable once CheckNamespace
+
+using CssParser;
+
 namespace ExCSS
 {
     internal abstract class NthChildSelector : BaseSelector, IToString

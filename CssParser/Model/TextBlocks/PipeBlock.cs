@@ -1,5 +1,7 @@
 ﻿
-namespace ExCSS.Model.TextBlocks
+using ExCSS;
+
+namespace CssParser.Model.TextBlocks
 {
     internal class PipeBlock : Block
     {

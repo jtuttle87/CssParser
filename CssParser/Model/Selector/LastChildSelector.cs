@@ -1,4 +1,7 @@
 ﻿// ReSharper disable once CheckNamespace
+
+using CssParser;
+
 namespace ExCSS
 {
     internal sealed class LastChildSelector : BaseSelector, IToString

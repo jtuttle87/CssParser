@@ -1,6 +1,6 @@
 ﻿using System;
-using System.Text;
 using System.Globalization;
+using System.Text;
 
 // ReSharper disable once CheckNamespace
 namespace ExCSS

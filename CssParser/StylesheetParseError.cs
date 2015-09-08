@@ -1,5 +1,7 @@
 ﻿
-namespace ExCSS
+using ExCSS;
+
+namespace CssParser
 {
     public sealed class StylesheetParseError
     {

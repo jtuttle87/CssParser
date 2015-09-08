@@ -1,4 +1,6 @@
-﻿namespace ExCSS
+﻿using ExCSS;
+
+namespace CssParser.Model.Values
 {
     public class EqualSign : Term
     {

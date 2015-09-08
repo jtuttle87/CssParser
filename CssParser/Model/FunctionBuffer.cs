@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using ExCSS;
 
-namespace ExCSS.Model
+namespace CssParser.Model
 {
     internal class FunctionBuffer
     {

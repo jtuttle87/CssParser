@@ -1,6 +1,4 @@
 ﻿using System.Collections.Generic;
-using System.Text;
-using ExCSS.Model;
 
 // ReSharper disable once CheckNamespace
 namespace ExCSS

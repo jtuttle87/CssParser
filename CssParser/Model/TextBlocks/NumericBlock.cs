@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Globalization;
+using ExCSS;
 
-namespace ExCSS.Model.TextBlocks
+namespace CssParser.Model.TextBlocks
 {
     internal class NumericBlock : Block
     {

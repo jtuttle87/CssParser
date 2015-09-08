@@ -1,9 +1,7 @@
 ﻿// ReSharper disable once CheckNamespace
 
-using System;
-using System.Linq;
 using System.Text;
-using ExCSS.Model;
+using CssParser.Model;
 
 namespace ExCSS
 {

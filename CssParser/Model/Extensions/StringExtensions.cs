@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace ExCSS.Model.Extensions
+namespace CssParser.Model.Extensions
 {
     public static class StringExtensions
     {

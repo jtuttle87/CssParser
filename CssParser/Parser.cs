@@ -1,13 +1,12 @@
 ﻿using System.Collections.Generic;
 using System.Text;
-using ExCSS.Model;
-using ExCSS.Model.TextBlocks;
-
+using CssParser.Model;
+using CssParser.Model.TextBlocks;
+using ExCSS;
 // ReSharper disable once CheckNamespace
-using System;
 
 
-namespace ExCSS
+namespace CssParser
 {
     internal delegate void ParseErrorEventHandler(StylesheetParseError e);
 

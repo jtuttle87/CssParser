@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
-using ExCSS.Model;
-using ExCSS.Model.TextBlocks;
+using CssParser.Model;
+using CssParser.Model.TextBlocks;
 
 // ReSharper disable once CheckNamespace
 namespace ExCSS

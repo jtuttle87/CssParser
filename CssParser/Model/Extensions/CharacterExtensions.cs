@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace ExCSS.Model.Extensions
+namespace CssParser.Model.Extensions
 {
     static class CharacterExtensions
     {

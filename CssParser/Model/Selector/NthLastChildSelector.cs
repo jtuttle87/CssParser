@@ -1,4 +1,4 @@
-﻿using System;
+﻿using CssParser;
 
 // ReSharper disable once CheckNamespace
 namespace ExCSS

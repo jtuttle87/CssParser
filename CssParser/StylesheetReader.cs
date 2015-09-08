@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using System.IO;
 using System.Text;
-using ExCSS.Model;
+using CssParser.Model;
 
-namespace ExCSS
+namespace CssParser
 {
     internal class StylesheetReader
     {

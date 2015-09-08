@@ -1,4 +1,6 @@
-﻿namespace ExCSS.Model
+﻿using ExCSS;
+
+namespace CssParser.Model
 {
     interface ISupportsDeclarations
     {
