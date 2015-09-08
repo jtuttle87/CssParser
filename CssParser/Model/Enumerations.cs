@@ -1,8 +1,8 @@
 ﻿
-// ReSharper disable once CheckNamespace
 
 
-namespace ExCSS
+
+namespace CssParser.Model
 {
     internal static class RuleTypes
     {

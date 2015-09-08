@@ -1,9 +1,7 @@
-﻿using CssParser;
-using CssParser.Model;
-using CssParser.Model.Extensions;
+﻿using CssParser.Model.Extensions;
+using CssParser.Model.Selector;
 
-// ReSharper disable once CheckNamespace
-namespace ExCSS
+namespace CssParser.Model.Rules
 {
     public class StyleRule : RuleSet, ISupportsSelector, ISupportsDeclarations
     {

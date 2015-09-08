@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using ExCSS;
+using CssParser.Model.Values;
 
 namespace CssParser.Model
 {

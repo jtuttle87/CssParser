@@ -1,5 +1,6 @@
 ﻿using System.Linq;
-using ExCSS;
+using CssParser.Model.Rules;
+using CssParser.Model.Selector;
 using NUnit.Framework;
 
 namespace CssParser.Tests

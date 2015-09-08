@@ -1,8 +1,6 @@
 ﻿using System.Text;
-using CssParser;
 
-// ReSharper disable once CheckNamespace
-namespace ExCSS
+namespace CssParser.Model.Selector
 {
     public class MultipleSelectorList : SelectorList, IToString
     {

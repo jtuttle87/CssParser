@@ -1,6 +1,6 @@
 ﻿
-// ReSharper disable once CheckNamespace
-namespace ExCSS
+
+namespace CssParser.Model.Selector
 {
     public abstract class BaseSelector
     {

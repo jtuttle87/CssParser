@@ -1,7 +1,6 @@
 using CssParser.Model.Extensions;
 
-// ReSharper disable once CheckNamespace
-namespace ExCSS
+namespace CssParser.Model.Values
 {
     public class Property
     {

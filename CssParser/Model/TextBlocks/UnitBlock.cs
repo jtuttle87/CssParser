@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Globalization;
-using ExCSS;
 
 namespace CssParser.Model.TextBlocks
 {

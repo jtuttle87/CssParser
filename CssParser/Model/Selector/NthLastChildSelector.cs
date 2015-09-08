@@ -1,7 +1,4 @@
-﻿using CssParser;
-
-// ReSharper disable once CheckNamespace
-namespace ExCSS
+﻿namespace CssParser.Model.Selector
 {
     internal sealed class NthLastChildSelector : NthChildSelector, IToString
     {

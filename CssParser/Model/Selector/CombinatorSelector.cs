@@ -1,8 +1,6 @@
 ﻿using System;
-using CssParser.Model;
 
-// ReSharper disable once CheckNamespace
-namespace ExCSS
+namespace CssParser.Model.Selector
 {
     public struct CombinatorSelector
     {

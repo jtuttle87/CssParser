@@ -1,4 +1,4 @@
-﻿using ExCSS;
+﻿using CssParser.Model.Selector;
 
 namespace CssParser.Model
 {

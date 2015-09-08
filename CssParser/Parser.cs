@@ -1,9 +1,10 @@
 ﻿using System.Collections.Generic;
 using System.Text;
 using CssParser.Model;
+using CssParser.Model.Rules;
+using CssParser.Model.Selector;
 using CssParser.Model.TextBlocks;
-using ExCSS;
-// ReSharper disable once CheckNamespace
+using CssParser.Model.Values;
 
 
 namespace CssParser

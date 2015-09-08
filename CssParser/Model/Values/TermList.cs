@@ -4,8 +4,7 @@ using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 using System.Text;
 
-// ReSharper disable once CheckNamespace
-namespace ExCSS
+namespace CssParser.Model.Values
 {
     public class TermList : Term, IEnumerable<Term>
     {

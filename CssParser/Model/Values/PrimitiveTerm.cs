@@ -2,8 +2,7 @@
 using System.Globalization;
 using System.Text;
 
-// ReSharper disable once CheckNamespace
-namespace ExCSS
+namespace CssParser.Model.Values
 {
     public class PrimitiveTerm : Term
     {

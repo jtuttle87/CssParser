@@ -1,5 +1,5 @@
 ﻿using System.Collections.Generic;
-using ExCSS;
+using CssParser.Model.Rules;
 
 namespace CssParser.Model
 {

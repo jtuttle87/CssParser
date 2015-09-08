@@ -1,10 +1,8 @@
 ﻿using System;
 using System.Globalization;
-using CssParser.Model;
 using CssParser.Model.Extensions;
 
-// ReSharper disable once CheckNamespace
-namespace ExCSS
+namespace CssParser.Model.Values
 {
     public class HtmlColor : Term, IEquatable<HtmlColor>
     {

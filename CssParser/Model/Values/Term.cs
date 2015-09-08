@@ -1,9 +1,7 @@
 ﻿
-// ReSharper disable once CheckNamespace
 
-using CssParser.Model.Values;
 
-namespace ExCSS
+namespace CssParser.Model.Values
 {
     public abstract class Term
     {

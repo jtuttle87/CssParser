@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using CssParser;
+using CssParser.Model;
 using CssParser.Model.Extensions;
+using CssParser.Model.Rules;
 
-// ReSharper disable once CheckNamespace
-namespace ExCSS
+namespace CssParser
 {
     public sealed class StyleSheet
     {

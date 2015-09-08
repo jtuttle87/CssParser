@@ -2,9 +2,10 @@
 using System.Linq;
 using System.Text;
 using CssParser.Model;
+using CssParser.Model.Rules;
+using CssParser.Model.Selector;
 using CssParser.Model.TextBlocks;
 using CssParser.Model.Values;
-using ExCSS;
 
 namespace CssParser
 {

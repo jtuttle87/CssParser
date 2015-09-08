@@ -1,6 +1,4 @@
-﻿using ExCSS;
-
-namespace CssParser.Model
+﻿namespace CssParser.Model
 {
     interface ISupportsMedia
     {

@@ -2,10 +2,9 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Text;
-using CssParser;
+using CssParser.Model.Values;
 
-// ReSharper disable once CheckNamespace
-namespace ExCSS
+namespace CssParser.Model.Rules
 {
     public class StyleDeclaration : IList<Property>
     {

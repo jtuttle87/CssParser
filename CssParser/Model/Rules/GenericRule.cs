@@ -1,9 +1,6 @@
-﻿// ReSharper disable once CheckNamespace
+﻿using System.Text;
 
-using System.Text;
-using CssParser.Model;
-
-namespace ExCSS
+namespace CssParser.Model.Rules
 {
     public class GenericRule : AggregateRule, ISupportsDeclarations
     {

@@ -2,12 +2,10 @@
 using System.Collections.Generic;
 using System.Globalization;
 using System.Text;
-using CssParser;
 using CssParser.Model;
 using CssParser.Model.TextBlocks;
 
-// ReSharper disable once CheckNamespace
-namespace ExCSS
+namespace CssParser
 {
     sealed class Lexer
     {

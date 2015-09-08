@@ -1,5 +1,4 @@
 ﻿using System.Collections.Generic;
-using ExCSS;
 
 namespace CssParser.Model.TextBlocks
 {

@@ -2,8 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using CssParser.Model.Extensions;
 
-// ReSharper disable once CheckNamespace
-namespace ExCSS
+namespace CssParser.Model
 {
     public class MediaTypeList : IEnumerable<string>
     {

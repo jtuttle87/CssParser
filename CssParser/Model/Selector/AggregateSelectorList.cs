@@ -1,8 +1,7 @@
 ﻿using System;
 using System.Text;
 
-// ReSharper disable once CheckNamespace
-namespace ExCSS
+namespace CssParser.Model.Selector
 {
     public class AggregateSelectorList : SelectorList
     {

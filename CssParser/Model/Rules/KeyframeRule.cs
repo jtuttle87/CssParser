@@ -1,9 +1,7 @@
 ﻿using System.Collections.Generic;
-using CssParser.Model;
 using CssParser.Model.Extensions;
 
-// ReSharper disable once CheckNamespace
-namespace ExCSS
+namespace CssParser.Model.Rules
 {
     public class KeyframeRule : RuleSet, ISupportsDeclarations
     {

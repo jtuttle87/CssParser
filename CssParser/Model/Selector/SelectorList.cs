@@ -1,8 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 
-// ReSharper disable once CheckNamespace
-namespace ExCSS
+namespace CssParser.Model.Selector
 {
     public abstract class SelectorList : BaseSelector, IEnumerable<BaseSelector>
     {

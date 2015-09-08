@@ -1,8 +1,6 @@
-﻿// ReSharper disable once CheckNamespace
+﻿
 
-using CssParser;
-
-namespace ExCSS
+namespace CssParser.Model.Selector
 {
     internal sealed class FirstChildSelector : BaseSelector, IToString
     {

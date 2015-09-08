@@ -1,4 +1,4 @@
-﻿using ExCSS;
+﻿using CssParser.Model;
 using NUnit.Framework;
 
 namespace CssParser.Tests

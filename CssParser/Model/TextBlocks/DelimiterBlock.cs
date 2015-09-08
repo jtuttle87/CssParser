@@ -1,6 +1,4 @@
-﻿using ExCSS;
-
-namespace CssParser.Model.TextBlocks
+﻿namespace CssParser.Model.TextBlocks
 {
     internal class DelimiterBlock : CharacterBlock
     {

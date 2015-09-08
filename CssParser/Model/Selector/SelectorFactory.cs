@@ -1,10 +1,8 @@
 ﻿using System;
 using System.Globalization;
-using CssParser.Model;
 using CssParser.Model.TextBlocks;
 
-// ReSharper disable once CheckNamespace
-namespace ExCSS
+namespace CssParser.Model.Selector
 {
     internal sealed class SelectorFactory
     {

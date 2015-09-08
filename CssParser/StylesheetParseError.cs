@@ -1,5 +1,5 @@
 ﻿
-using ExCSS;
+using CssParser.Model;
 
 namespace CssParser
 {

@@ -1,5 +1,5 @@
-﻿// ReSharper disable once CheckNamespace
-namespace ExCSS
+﻿
+namespace CssParser.Model.Values
 {
     public class Comma : Term
     {
